@@ -83,7 +83,8 @@
         "neos/nodetypes-navigation": "self.version",
         "neos/nodetypes": "self.version",
         "neos/site-kickstarter": "self.version",
-        "neos/timeable-node-visibility": "self.version"
+        "neos/timeable-node-visibility": "self.version",
+        "neos/workspace-ui": "self.version"
     },
     "suggest": {
         "neos/utility-schema": "Validate NodeType schema.",
@@ -246,6 +247,9 @@
             ],
             "Neos\\TimeableNodeVisibility\\": [
                 "Neos.TimeableNodeVisibility/Classes"
+            ],
+            "Neos\\Workspace\\Ui\\": [
+                "Neos.Workspace.Ui/Classes"
             ]
         }
     },
