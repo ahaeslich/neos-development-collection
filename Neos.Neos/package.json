@@ -33,7 +33,7 @@
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
-    "dompurify": "^2.2.6",
+    "dompurify": "^3.3.0",
     "i18next": "^19.9.2",
     "jquery": "^3.6.0"
   },
